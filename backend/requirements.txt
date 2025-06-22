@@ -1,0 +1,10 @@
+fastapi
+pydantic
+langchain
+langchain_mistralai
+langchain_community
+langchain_chroma
+langchain_core
+mistralai
+huggingface_hub
+uvicorn
